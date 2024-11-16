@@ -10,6 +10,8 @@
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
 
+![Profile views counter](https://komarev.com/ghpvc/?username=leontran44&&style=flat-square)
+
 ### Glad to see you here!
 
 I’m a junior **Full Stack Developer** with a knack for bringing ideas to life through code 🤪. With a background that spans both front-end and back-end, I love diving into projects that let me build everything from user-friendly interfaces to efficient, powerful backends. I’m always excited to learn, take on new challenges, and find creative solutions to make things work even better.
@@ -54,15 +56,27 @@ I’m a junior **Full Stack Developer** with a knack for bringing ideas to life 
  style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="node" height="50"/>
 </a>
 
-### Other Tools
+### Frontend
 
-<div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-  
-</div>
+<a href="https://www.w3.org/html/" target="_blank"><img 
+ style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="html5" height="50"/>
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="css3" height="50"/>
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" height="50"/>
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" alt="jquery" height="50"/></a>
+
+### Databases
+
+<a href="https://www.mysql.com/" target="_blank"><img 
+ style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="50"/>
+<a href="https://www.postgresql.org" target="_blank"><img
+style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="50"/>
+
+</a>
+
+### Other Tools and Languages
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,vite,netlify,npm,sequelize,py,c,cpp,graphql)](https://skillicons.dev)
+</a>
 
 <br/>
 
@@ -76,16 +90,11 @@ I’m a junior **Full Stack Developer** with a knack for bringing ideas to life 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leontran44&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td></tr></table>
+</td></tr>
+</table>
 
-<br/>
+## Other Stats
 
-<br/>
-
-![Profile views counter](https://komarev.com/ghpvc/?username=leontran44&&style=flat-square)
-
-<br/>
-
-<br />
+[![roadmap.sh](https://roadmap.sh/card/tall/673685bee86e9ff4d2d44f9a?variant=dark)](https://roadmap.sh)
 
 ---
