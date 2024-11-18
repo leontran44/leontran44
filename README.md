@@ -95,6 +95,6 @@ style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/ic
 
 ## Other Stats
 
-[![roadmap.sh](https://roadmap.sh/card/tall/673685bee86e9ff4d2d44f9a?variant=dark)](https://roadmap.sh)
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/673685bee86e9ff4d2d44f9a?variant=dark" alt="roadmap.sh"/></a>
 
 ---
